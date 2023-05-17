@@ -1,0 +1,3 @@
+Product{productName='n', Price=100.0, productCategory='Salat'}
+Product{productName='a', Price=100.0, productCategory='Salat'}
+Product{productName='w', Price=100.0, productCategory='Salat'}
